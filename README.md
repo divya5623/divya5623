@@ -33,3 +33,4 @@
 
 ## 🌐 Connect with me
 LinkedIn: https://linkedin.com/in/divya-shettar
+![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true)
