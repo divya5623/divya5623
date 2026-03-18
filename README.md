@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Divya Shettar
 
-<!--
-**divya5623/divya5623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student  
+💻 Python | C | C++ | HTML | CSS  
+🤖 Passionate about Artificial Intelligence & Machine Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- C
+- C++
+- HTML & CSS
+- Machine Learning
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Cloud Computing
+
+---
+
+## 🧠 Projects
+- Sentiment Analysis using MiniLM
+- Sentiment Analysis using Embeddings
+- AI & Machine Learning Experiments
+
+---
+
+## 🌐 Connect with me
+LinkedIn: https://linkedin.com/in/divya-shettar
