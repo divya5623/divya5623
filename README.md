@@ -1,13 +1,4 @@
 <h1 align="center">Hi 👋 I'm Divya Shettar</h1>
-
-<p align="center">
-AI & Machine Learning Student
-</p>
-
----
-
-## 📊 GitHub Dashboard
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight" />
 </p>
