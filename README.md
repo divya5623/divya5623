@@ -47,9 +47,19 @@ I enjoy building projects that combine AI, software development, and real-world 
 ---
 
 ## 🎯 Achievements
-- **Big Code 2026 – Round 1 Selected**  
-- **Code Vipassana 2026 – Participated**  
-- **Google eSkills – Gold Badge**  
+
+- 🏆 **NIAT Masterclass – Advanced GenAI Project** 🚀  
+  Successfully completed the **Text Embeddings GenAI Project**, building a Sentiment Classification System using embeddings. Guided by **Stuti Gupta, Data Scientist at Flipkart**.  
+  [📄 View Certificate](link-to-your-certificate)
+
+- 🏅 **Big Code 2026 – Round 1 Selected**  
+  Recognized for problem-solving and AI/ML project skills in a national-level coding competition.
+
+- 🎖 **Code Vipassana 2026 – Participant**  
+  Participated in an intensive coding challenge to enhance algorithmic and software development skills.
+
+- 🥇 **Google eSkills – Gold Badge**  
+  Achieved a gold-level certification demonstrating proficiency in Google’s AI/ML and cloud technologies.  
 
 ---
 
