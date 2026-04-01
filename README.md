@@ -17,7 +17,34 @@ I enjoy building projects that combine AI, software development, and real-world 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya5623&theme=tokyonight" alt="Divya's GitHub Streak" />
 </p>
-
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/divya5623">
+        <img width=100% src="https://github-profile-trophy.vercel.app/?username=divya5623&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/divya5623">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/divya5623">
+        <img src="https://streak-stats.demolab.com?user=divya5623&theme=nord&hide_border=true">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/divya5623">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=nord_dark">
+      </a>
+    </td>
+  </tr>
+</table>
 ## 🛠 Skills & Technologies
 
 <p align="left">
