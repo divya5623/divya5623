@@ -1,3 +1,21 @@
+## 📈 Contributions Dashboard
+
+### 🗓 Daily Contributions (This Month)
+<p align="center">
+  <img src="daily_contributions.png" alt="Daily Contributions" width="80%" />
+</p>
+
+### 📊 Contribution Trend (Last Month)
+<p align="center">
+  <img src="trend_contributions.png" alt="Contribution Trend" width="80%" />
+</p>
+
+### 🌱 Yearly GitHub-style Heatmap
+<p align="center">
+  <img src="github_heatmap.png" alt="GitHub Heatmap" width="90%" />
+</p>
+
+
 <h1 align="center">Hi 👋 I'm Divya Shettar</h1>
 <p align="center">
 AI & ML Enthusiast | Exploring OpenVINO, LangChain & Full-Stack Development
