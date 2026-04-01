@@ -70,6 +70,8 @@ I enjoy building projects that combine AI, software development, and real-world 
 </p>
 
 ---
+## 📊 Skills Radar
 
-## 📊 Skills Radar (Optional)
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','C++','React.js','DBMS','SQL','LangChain','OpenVINO'],datasets:[{label:'Skill Level',data:[90,80,70,75,80,60,65]}]}}" alt="Skills Radar Graph"/>
+<p align="center">
+<img src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Python'%2C'C%2B%2B'%2C'React.js'%2C'DBMS'%2C'SQL'%2C'LangChain'%2C'OpenVINO'%5D%2Cdatasets%3A%5B%7Blabel%3A'Skill%20Level'%2Cdata%3A%5B90%2C80%2C70%2C75%2C80%2C60%2C65%5D%2Cfill%3Atrue%2CbackgroundColor%3A'rgba(0%2C123%2C255%2C0.3)'%2CborderColor%3A'rgba(0%2C123%2C255%2C1)'%2CpointBackgroundColor%3A'rgba(0%2C123%2C255%2C1)'%7D%5D%7D%7D" alt="Skills Radar"/>
+</p>
