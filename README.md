@@ -17,13 +17,6 @@ I enjoy building projects that combine AI, software development, and real-world 
   <tr>
     <td colspan="2">
       <a href="https://github.com/divya5623">
-        <img width=100% src="https://github-profile-trophy.vercel.app/?username=divya5623&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://github.com/divya5623">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
       </a>
     </td>
