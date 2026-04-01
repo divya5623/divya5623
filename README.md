@@ -17,59 +17,6 @@ I enjoy building projects that combine AI, software development, and real-world 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya5623&theme=tokyonight" alt="Divya's GitHub Streak" />
 </p>
-import matplotlib.pyplot as plt
-import seaborn as sns
-import numpy as np
-import pandas as pd
-
-# -------------------------
-# 1. Daily Contributions Line Chart
-# -------------------------
-days = np.arange(1, 32)  # Days of the month
-daily_contributions = [2, 0, 1, 5, 6, 8, 12, 30, 10, 5, 0, 1, 0, 0, 2, 3, 1, 0, 0, 0, 2, 1, 3, 0, 0, 0, 1, 2, 0, 0, 1]
-
-plt.figure(figsize=(12,4))
-plt.plot(days, daily_contributions, marker='o', color='#4c78a8', linewidth=2)
-plt.fill_between(days, daily_contributions, color='#4c78a8', alpha=0.2)
-plt.title("Daily Contributions", fontsize=16)
-plt.xlabel("Day of the Month")
-plt.ylabel("Contributions")
-plt.grid(alpha=0.3)
-plt.show()
-
-# -------------------------
-# 2. Summary Cards
-# -------------------------
-total_contributions = 8000
-current_streak = 2
-longest_streak = 478
-
-print(f"📊 Total Contributions: {total_contributions}")
-print(f"🔥 Current Streak: {current_streak} days")
-print(f"🏆 Longest Streak: {longest_streak} days")
-
-# Mini line chart for trend
-trend_contributions = np.random.poisson(2, 30)
-plt.figure(figsize=(8,2))
-plt.plot(trend_contributions, color='#ff7f0e', marker='o')
-plt.title("Contribution Trend (Last Month)")
-plt.axis('off')
-plt.show()
-
-# -------------------------
-# 3. Yearly GitHub-style Heatmap
-# -------------------------
-weeks = 52
-days_week = 7
-yearly_data = np.random.randint(0, 5, size=(days_week, weeks))  # 0-4 intensity
-
-plt.figure(figsize=(16,3))
-sns.heatmap(yearly_data, cmap="Greens", cbar=False, linewidths=1, linecolor='white')
-plt.title("GitHub-style Contribution Heatmap", fontsize=16)
-plt.xlabel("Weeks")
-plt.ylabel("Days of Week")
-plt.show()
----
 
 ## 🛠 Skills & Technologies
 
