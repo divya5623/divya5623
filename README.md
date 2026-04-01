@@ -14,11 +14,8 @@ I enjoy building projects that combine AI, software development, and real-world 
 
 ## 📊 GitHub Stats
 
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight)
-
 ![Divya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divya5623&theme=tokyonight)
 
-![Divya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight)
 ---
 
 ## 🛠 Skills & Technologies
