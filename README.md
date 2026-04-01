@@ -14,7 +14,9 @@ I enjoy building projects that combine AI, software development, and real-world 
 
 ## 📊 GitHub Stats
 
-![Divya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divya5623&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya5623&theme=tokyonight" alt="Divya's GitHub Streak" />
+</p>
 
 ---
 
