@@ -42,7 +42,6 @@ I enjoy building projects that combine AI, software development, and real-world 
 
 ## 📂 Key Projects
 - [OpenVINO YOLOv8 Demo](https://github.com/divya5623/openvino-yolov8-demo) – Real-time object detection with OpenVINO optimization  
-- [OpenVINO GSoC Demo](https://github.com/divya5623/openvino-gsoc-demo) – AI model deployment & optimization examples  
 - [Incident Response OpenEnv](https://github.com/divya5623/incident-response-openenv) – Automated production incident simulation  
 
 ---
