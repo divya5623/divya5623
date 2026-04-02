@@ -28,10 +28,10 @@ I enjoy building projects that combine AI, software development, and real-world 
   </a>
 </td>
     <td>
-      <a href="https://github.com/divya5623">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=nord_dark">
-      </a>
-    </td>
+  <a href="https://github.com/divya5623">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=nord_dark&count_private=true&include_all_commits=true">
+  </a>
+</td>
   </tr>
 </table>
 
