@@ -27,11 +27,12 @@ I enjoy building projects that combine AI, software development, and real-world 
     <img src="https://streak-stats.demolab.com?user=divya5623&theme=nord&hide_border=true&count_private=true&include_all_commits=true">
   </a>
 </td>
-    <td>
+<td>
   <a href="https://github.com/divya5623">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=nord_dark&count_private=true&include_all_commits=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=nord_dark">
   </a>
 </td>
+     
   </tr>
 </table>
 
