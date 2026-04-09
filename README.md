@@ -5,7 +5,6 @@ AI & ML Enthusiast | Exploring OpenVINO, LangChain & Full-Stack Development
 
 --- 
 
-
 ## 📝 About Me
 I am a first-year B.Tech CSE (AI) student with a passion for AI, machine learning, and full-stack development.  
 Currently exploring OpenVINO, LangChain, Python, React, and DBMS.  
@@ -78,7 +77,6 @@ I enjoy building projects that combine AI, software development, and real-world 
 
 - 🥇 **Google eSkills – Gold Badge**  
   Achieved a gold-level certification demonstrating proficiency in Google AI/ML and cloud technologies.
-  
 
 ---
 
@@ -97,5 +95,3 @@ I enjoy building projects that combine AI, software development, and real-world 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
----
