@@ -54,12 +54,6 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 
 
 ## 🛠 Skills & Technologies
-## 🛠 Skills & Technologies
-
-**Languages:** Python, C++, SQL  
-**Frontend:** HTML, CSS, React.js  
-**AI/ML:** OpenVINO, LangChain, Computer Vision, YOLO  
-**Tools:** Git, VS Code, Linux basics
 
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -78,10 +72,6 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 </p>
 
 ---
-
-## 📂 Key Projects
-- [OpenVINO YOLOv8 Demo](https://github.com/divya5623/openvino-yolov8-demo) – Real-time object detection with OpenVINO optimization  
-- [Incident Response OpenEnv](https://github.com/divya5623/incident-response-openenv) – Automated production incident simulation  
 ## 🚀 Key Projects
 
 - 🔍 **AI Medicine Scanner (YOLOv8 + OpenVINO)**  
@@ -107,36 +97,6 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - 🥇 **Google eSkills – Gold Badge**
   Certified in AI/ML and cloud fundamentals.
   
-## 🎯 Achievements
-- 🏆 **NIAT Masterclass – Advanced GenAI Project**  
-  Successfully completed the **Text Embeddings GenAI Project**, building a **Sentiment Classification System using embeddings**.  
-  Guided by **Stuti Gupta, Data Scientist at Flipkart**.  
-  [📄 View Certificate](https://s3-ap-south-1.amazonaws.com/poster-generation-backend-nxtwave-media-static/ccbp_beta/NIAT_MASTERCLASS_CERTIFICATES/J3RXTPC98G.png)
-
-- 🏅 **Big Code 2026 – Round 1 Selected**  
-  Recognized for problem-solving and AI/ML project skills in a national-level coding competition.
-
-- 🎖 **Code Vipassana 2026 – Participant**  
-  Engaged in an intensive coding challenge to enhance algorithmic and software development capabilities.
-
-- 🥇 **Google eSkills – Gold Badge**  
-  Achieved a gold-level certification demonstrating proficiency in Google AI/ML and cloud technologies.
-
----## 📫 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/divya-shettar-258078370">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/divyashettar65/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="mailto:divya5623@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
 
 ## 📫 Connect with Me
 <p align="center">
@@ -153,18 +113,5 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-I am a first-year B.Tech CSE (AI) student focused on building real-world AI systems.
-
-I specialize in:
-- Computer Vision (YOLO, OpenVINO optimization)
-- Generative AI and LLM applications using LangChain
-- Full-stack AI product development
-
-I actively build and experiment with production-like AI systems such as:
-- Real-time object detection systems
-- AI-powered diagnostic tools
-- Incident response simulation environments
-
-I am passionate about turning AI concepts into working systems that solve real-world problems, especially in healthcare, automation, and intelligent systems.
 
 I am currently looking to participate in hackathons and build impactful AI products with strong technical depth and real-world usability.
