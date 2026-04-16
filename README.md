@@ -66,7 +66,10 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - Built to explore simulation + game logic
 - 📌 Tech: 
 - 🎥 Demo: 
-
+### 🏥 Smart Health Path AI
+- AI medical web platform
+- Live: https://unique-smart-health-path.base44.app
+- Built using Base44
 ---
 
 ### 🤖 AI Agents System
