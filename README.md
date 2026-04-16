@@ -49,7 +49,7 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 ---
 ## 🚀 Key Projects
 
-- 🔍 **AI Medicine Scanner **  
+- 🔍 AI Medicine Scanner
   Real-time object detection system optimized for edge AI inference.
 
 - 🚨 **Incident Response OpenEnv**  
