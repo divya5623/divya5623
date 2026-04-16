@@ -47,16 +47,36 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 </p>
 
 ---
-## 🚀 Key Projects
+## 🚀 Projects
 
-- 🔍 **AI Medicine Scanner**
-  Real-time object detection system optimized for edge AI inference.
+### 🏥 AI Medicine Scanner
+- Real-time object detection system using YOLO + OpenVINO
+- Built for AI-based medical assistance
+- 📌 Tech: Python, OpenVINO, YOLO
+- 🎥 Demo: 
 
-- 🚨 **Incident Response OpenEnv**  
-  Simulated production incident response system for failure detection and recovery workflows.
+---
 
-- ⚡ **OpenVINO YOLOv8 Optimization Demo**  
-  Benchmarking and optimizing YOLOv8 models for performance on OpenVINO runtime.
+### 🏎️ Antigravity Racing Game
+- Physics-based experimental racing game
+- Built to explore simulation + game logic
+- 📌 Tech: 
+- 🎥 Demo: 
+
+---
+
+### 🤖 AI Agents System
+- Multi-agent system for task automation
+- Includes workflow-based decision making
+- 📌 Tech: Python, LangChain
+- 🎥 Demo: 
+
+---
+
+### 🔄 Workflow Automation System
+- AI-powered workflow execution system
+- Automates repetitive tasks using agents
+- 📌 Tech: Python, AI agents
 ---
 ## 🏆 Achievements
 
