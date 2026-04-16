@@ -55,6 +55,10 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - 📌 Tech: Python, OpenVINO, YOLO
 - 🎥 Demo: 
 
+### 🌐 Empathy Mirror AI
+- AI-based reflection web app
+- Live: https://empathy-mirror-0d3693de.base44.app
+- GitHub: https://github.com/divya5623/empathy-mirror-ai
 ---
 
 ### 🏎️ Antigravity Racing Game
@@ -70,9 +74,7 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - Includes workflow-based decision making
 - 📌 Tech: Python, LangChain
 - 🎥 Demo: 
-
 ---
-
 ### 🔄 Workflow Automation System
 - AI-powered workflow execution system
 - Automates repetitive tasks using agents
