@@ -1,17 +1,33 @@
 <h1 align="center">Hi 👋 I'm Divya Shettar</h1>
 <p align="center">
 AI & ML Enthusiast | Exploring OpenVINO, LangChain & Full-Stack Development
-</p>
-
---- 
-
-## 📝 About Me
-I am a first-year B.Tech CSE (AI) student with a passion for AI, machine learning, and full-stack development.  
-Currently exploring OpenVINO, LangChain, Python, React, and DBMS.  
-I enjoy building projects that combine AI, software development, and real-world problem solving.  
-
+</p> 
 ---
 
+## 🧠 About Me
+I am a first-year B.Tech CSE (AI) student focused on building real-world AI systems.
+
+My interests lie in:
+- Computer Vision (YOLO, OpenVINO)
+- Generative AI & LLM applications (LangChain)
+- Full-stack AI product development
+
+I don’t just learn AI — I build and deploy AI-driven systems that solve real problems.
+---
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&hide_border=true&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=github_dark" />
+</p>
+---
 ## 📊 GitHub Stats
 <table>
   <tr>
@@ -38,6 +54,12 @@ I enjoy building projects that combine AI, software development, and real-world 
 
 
 ## 🛠 Skills & Technologies
+## 🛠 Skills & Technologies
+
+**Languages:** Python, C++, SQL  
+**Frontend:** HTML, CSS, React.js  
+**AI/ML:** OpenVINO, LangChain, Computer Vision, YOLO  
+**Tools:** Git, VS Code, Linux basics
 
 <p align="left">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -60,9 +82,31 @@ I enjoy building projects that combine AI, software development, and real-world 
 ## 📂 Key Projects
 - [OpenVINO YOLOv8 Demo](https://github.com/divya5623/openvino-yolov8-demo) – Real-time object detection with OpenVINO optimization  
 - [Incident Response OpenEnv](https://github.com/divya5623/incident-response-openenv) – Automated production incident simulation  
+## 🚀 Key Projects
 
+- 🔍 **AI Medicine Scanner (YOLOv8 + OpenVINO)**  
+  Real-time object detection system optimized for edge AI inference.
+
+- 🚨 **Incident Response OpenEnv**  
+  Simulated production incident response system for failure detection and recovery workflows.
+
+- ⚡ **OpenVINO YOLOv8 Optimization Demo**  
+  Benchmarking and optimizing YOLOv8 models for performance on OpenVINO runtime.
 ---
+## 🏆 Achievements
 
+- 🧠 **NIAT Masterclass – GenAI Project**
+  Built a Sentiment Classification System using Text Embeddings under Flipkart Data Scientist mentorship.
+
+- 🏅 **Big Code 2026 – Round 1 Selected**
+  Selected for national-level coding competition for problem-solving and AI skills.
+
+- 🎖 **Code Vipassana 2026 – Participant**
+  Intensive coding challenge focused on algorithms and system thinking.
+
+- 🥇 **Google eSkills – Gold Badge**
+  Certified in AI/ML and cloud fundamentals.
+  
 ## 🎯 Achievements
 - 🏆 **NIAT Masterclass – Advanced GenAI Project**  
   Successfully completed the **Text Embeddings GenAI Project**, building a **Sentiment Classification System using embeddings**.  
@@ -78,7 +122,21 @@ I enjoy building projects that combine AI, software development, and real-world 
 - 🥇 **Google eSkills – Gold Badge**  
   Achieved a gold-level certification demonstrating proficiency in Google AI/ML and cloud technologies.
 
----
+---## 📫 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/divya-shettar-258078370">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/divyashettar65/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="mailto:divya5623@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ## 📫 Connect with Me
 <p align="center">
@@ -95,3 +153,18 @@ I enjoy building projects that combine AI, software development, and real-world 
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+I am a first-year B.Tech CSE (AI) student focused on building real-world AI systems.
+
+I specialize in:
+- Computer Vision (YOLO, OpenVINO optimization)
+- Generative AI and LLM applications using LangChain
+- Full-stack AI product development
+
+I actively build and experiment with production-like AI systems such as:
+- Real-time object detection systems
+- AI-powered diagnostic tools
+- Incident response simulation environments
+
+I am passionate about turning AI concepts into working systems that solve real-world problems, especially in healthcare, automation, and intelligent systems.
+
+I am currently looking to participate in hackathons and build impactful AI products with strong technical depth and real-world usability.
