@@ -27,7 +27,7 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya5623&theme=github_dark" />
 </p>
----
+
 ## 🛠 Skills & Technologies
 
 <p align="left">
