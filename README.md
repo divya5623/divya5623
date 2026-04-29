@@ -2,7 +2,6 @@
 <p align="center">
 AI & ML Enthusiast | Exploring OpenVINO, LangChain & Full-Stack Development
 </p> 
----
 
 ## 🧠 About Me
 I am a first-year B.Tech CSE (AI) student focused on building real-world AI systems.
