@@ -59,7 +59,6 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - Live: https://empathy-mirror-0d3693de.base44.app
 - GitHub: https://github.com/divya5623/empathy-mirror-ai
 ---
-
 ### 🏎️ Antigravity Racing Game
 - Physics-based experimental racing game
 - Built to explore simulation + game logic
@@ -70,7 +69,6 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - Live: https://unique-smart-health-path.base44.app
 - Built using Base44
 ---
-
 ### 🤖 AI Agents System
 - Multi-agent system for task automation
 - Includes workflow-based decision making
@@ -95,8 +93,8 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 
 - 🥇 **Google eSkills – Gold Badge**
   Certified in AI/ML and cloud fundamentals.
-  
 
+  
 ## 📫 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/divya-shettar-258078370" target="_blank">
