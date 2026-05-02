@@ -94,6 +94,9 @@ I don’t just learn AI — I build and deploy AI-driven systems that solve real
 - 🥇 **Google eSkills – Gold Badge**
   Certified in AI/ML and cloud fundamentals.
 
+- 🥈 Secured **2nd Runner-Up** position in *She Builds Hackathon* organized by Newton School of Technology
+  - Built a real-world solution under hackathon constraints
+  - Recognized among top teams for innovation and execution
   
 ## 📫 Connect with Me
 <p align="center">
