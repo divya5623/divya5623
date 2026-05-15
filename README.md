@@ -133,6 +133,9 @@ Python • LangChain • AI Agents
 </p>
 
 ---
+## 📊 GitHub Activity
+
+![Divya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true)
 
 # 💭 Quote
 
