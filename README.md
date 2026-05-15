@@ -1,27 +1,42 @@
-<h1 align="center">Hi 👋, I'm Divya Shettar</h1>
+
+<h1 align="center">Divya Shettar</h1>
 
 <h3 align="center">
-AI & ML Enthusiast • Open Source Contributor • Building Real-World AI Systems
+AI Engineer • Open Source Contributor • Building Intelligent Systems for Real-World Impact
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Open+Source+Contributor;Hackathon+Runner-Up;Building+AI+Products+for+Real+Problems;Exploring+LLMs+%26+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=AI+Engineer+in+Progress;Open+Source+Contributor;Hackathon+Runner-Up;Building+AI+Products+for+Real+World+Problems;Computer+Vision+%7C+GenAI+%7C+AI+Agents;Exploring+LLMs+%26+Intelligent+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/divya5623">
+    <img src="https://img.shields.io/github/followers/divya5623?label=Followers&style=for-the-badge&color=8A2BE2">
+  </a>
+
+  <a href="https://github.com/divya5623">
+    <img src="https://img.shields.io/github/stars/divya5623?style=for-the-badge&color=00C853">
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
 # 🧠 About Me
 
-🎓 First-Year B.Tech CSE (AI) Student  
-🚀 Passionate about AI systems, Computer Vision, and AI Product Engineering  
-💡 Focused on building deployable AI products with real-world usability  
+🎓 B.Tech Computer Science Engineering (AI) Student at NIAT  
+🚀 Passionate about Artificial Intelligence, Computer Vision, and AI Product Engineering  
+⚡ Building deployable AI systems focused on real-world usability and impact  
+🌍 Exploring the intersection of AI, automation, healthcare, safety, and intelligent assistants  
 
-### Current Interests
+### Current Focus Areas
 - 🤖 Generative AI & LLM Applications
 - 👁️ Computer Vision (YOLOv8 + OpenVINO)
 - 🔗 AI Agents & Workflow Automation
 - 🌐 Full-Stack AI Product Development
-- ⚡ Open Source Contributions
+- ☁️ Cloud & AI Infrastructure
+- ⚡ Open Source Engineering
 
 ---
 
@@ -35,72 +50,83 @@ AI & ML Enthusiast • Open Source Contributor • Building Real-World AI System
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
-[![Divya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=f8fafc&area=true&hide_border=true)](https://github.com/divya5623)
+![Divya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true)
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Tech Ecosystem
 
-### Languages
+## Languages
 ![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3)
 
-### AI & Development
+## AI / ML
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-111827?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv)
+
+## Development
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux)
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🛡️ SHEGUARD X
-Offline-first autonomous women safety platform with:
-- Live location sharing
-- SOS emergency system
-- Audio evidence capture
-- Risk detection engine
-- Offline emergency support
+Offline-first autonomous women safety platform featuring:
+- Emergency SOS System
+- Live Location Sharing
+- Audio Evidence Capture
+- Risk Detection Engine
+- Offline Emergency Support
 
-### Tech Stack
-React • JavaScript • Service Workers • Browser APIs
+### Stack
+React • JavaScript • Browser APIs • Service Workers
 
 ---
 
 ## 🏥 Smart Health Path AI
-AI-powered healthcare assistance platform focused on smart medical accessibility.
+AI-powered healthcare assistance platform focused on intelligent medical accessibility and user guidance.
 
-🔗 Live Demo:
+🔗 Live Demo  
 https://unique-smart-health-path.base44.app
 
 ---
 
 ## 🌐 Empathy Mirror AI
-AI reflection and emotional interaction web application.
+AI-powered emotional reflection and interaction platform built for intelligent user engagement.
 
-🔗 Live Demo:
+🔗 Live Demo  
 https://empathy-mirror-0d3693de.base44.app
 
-🔗 GitHub:
+🔗 Repository  
 https://github.com/divya5623/empathy-mirror-ai
 
 ---
 
 ## 🤖 AI Agents Workflow System
-Multi-agent automation platform using AI-driven task execution and workflow intelligence.
+Multi-agent AI automation platform for intelligent workflow execution and task orchestration.
 
-### Tech
+### Stack
 Python • LangChain • AI Agents
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Recognition
 
 🥈 Runner-Up — SheBuilds Hackathon 2026  
 💰 Won ₹10,000 Prize Money  
@@ -108,35 +134,62 @@ Python • LangChain • AI Agents
 🚀 Big Code 2026 — Round 1 Selected  
 🧠 NIAT GenAI Masterclass Participant  
 🎖️ Code Vipassana 2026 Participant  
+☁️ Google Developer Program Member  
+🌟 Active Open Source Contributor  
 
 ---
 
-# 🌍 Open Source
+# ☁️ Google Developer & Cloud Ecosystem
 
-- OpenVINO AI Experiments
-- GitHub Open Source Contributions
-- Hugging Face Ecosystem Exploration
-- Community-based AI Development
+- Google Developer Program Member
+- GDG Cloud Mangalore Member
+- Gemini Enterprise Agent Ready
+- Google Cloud & NVIDIA Community Member
+- Google I/O 2026 Registered
+- Google Skills Boost Learner
+- Exploring Vertex AI, Gemini API & Cloud AI Systems
+
+---
+
+# 🌍 Open Source & Communities
+
+- Hugging Face Community
+- OpenVINO Ecosystem
+- Google Developer Communities
+- AI/ML Open Source Contributions
+- Intelligent Automation Systems
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://github.com/divya5623">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://linkedin.com/in/divya-shettar-258078370">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
+
+<a href="https://instagram.com/divya_shettar_ll">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord">
+</a>
+
 </p>
 
 ---
-## 📊 GitHub Activity
 
-![Divya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0f6fc&area=true&hide_border=true)
+# 💭 Philosophy
 
-# 💭 Quote
-
-> "I don't just learn technology — I build systems that create real-world impact."
+> “I don’t just learn technology — I build intelligent systems designed to create meaningful real-world impact.”
+```
