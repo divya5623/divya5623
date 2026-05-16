@@ -31,19 +31,21 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" width="50%" />
 </p>
+---
 ## About
 
-I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and intelligent applications designed for real-world usability and impact.
+I am a B.Tech Computer Science Engineering (AI) student at NIAT, passionate about building intelligent systems and real-world AI applications focused on usability, automation, and impact.
 
-Current interests:
-- Generative AI
-- AI Agents
-- Computer Vision
-- Workflow Automation
+My work centers around:
+- Generative AI & LLM Applications
+- AI Agents & Workflow Automation
+- Computer Vision & Edge AI
 - Full-Stack AI Product Development
 - Open Source Engineering
 
-Currently exploring LLM applications, multi-agent systems, OpenVINO, YOLOv8, and deployable AI products.
+Currently building and exploring multi-agent systems, OpenVINO, YOLOv8, intelligent automation platforms, and deployable AI products across healthcare, safety, and productivity domains.
+
+I enjoy transforming ideas into practical AI-driven solutions that combine engineering, design, and real-world problem solving.
 
 ---
 
