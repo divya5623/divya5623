@@ -5,16 +5,12 @@ AI Engineer in Progress · Open Source Contributor · Building Intelligent Syste
 </p>
 
 <p align="center">
-<a href="https://github.com/divya5623">GitHub</a> •
-<a href="https://linkedin.com/in/divya-shettar-258078370">LinkedIn</a> •
-<a href="https://instagram.com/divya_shettar_ll">Instagram</a> •
-<a href="https://twitter.com/">X / Twitter</a> •
-<a href="https://discord.com/">Discord</a>
+Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack AI Product Development.
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" width="60%" />
@@ -34,7 +30,7 @@ Consistent learning, building, and open-source contribution.
 
 ## About
 
-I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and real-world intelligent applications.
+I am a B.Tech Computer Science Engineering (AI) student at NIAT, building practical AI systems and intelligent applications designed for real-world usability and impact.
 
 My interests include:
 - Generative AI
@@ -153,6 +149,34 @@ Multi-agent AI workflow platform focused on intelligent task orchestration and a
 - Code Vipassana 2026 Participant
 - Google Developer Program Member
 - GDG Cloud Mangalore Member
+
+---
+
+## Connect With Me
+
+<p>
+
+<a href="https://github.com/divya5623">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/divya-shettar-258078370">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/divya_shettar_ll">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
