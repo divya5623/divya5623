@@ -12,19 +12,15 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 <a href="https://github.com/divya5623">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/divya-shettar-258078370">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://instagram.com/divya_shettar_ll">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-
 <a href="https://twitter.com/">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
-
 <a href="https://discord.com/">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </a>
@@ -32,25 +28,36 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight_duo&hide_border=true&border_radius=10" width="64%" />
+<img 
+src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=8"
+height="170"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" width="46%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="33%" />
+<img 
+src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+height="170"
+/>
+
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true"
+height="170"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=8A2BE2&line=00C853&point=FFFFFF&area=true&hide_border=true"/>
+<img 
+src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&theme=tokyo-night&hide_border=true&area=true"
+/>
 </p>
 
 ---
 
-# About
+## About
 
 I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and intelligent applications designed for real-world usability and impact.
 
@@ -66,7 +73,7 @@ Currently exploring LLM applications, multi-agent systems, OpenVINO, YOLOv8, and
 
 ---
 
-# Selected Projects
+## Selected Projects
 
 ### SHEGUARD X
 Offline-first women safety platform for emergency response and intelligent risk detection.
@@ -113,54 +120,54 @@ Multi-agent workflow platform for intelligent automation and orchestration.
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://img.shields.io/badge/OpenVINO-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenVINO-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
 ### Development
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ### Cloud & Platforms
 
 <p>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_API-8E75FF?style=flat-square" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
 ---
 
-# Achievements
+## Achievements
 
 - Runner-Up — SheBuilds Hackathon 2026
 - ₹10,000 Prize Winner
@@ -176,6 +183,8 @@ Multi-agent workflow platform for intelligent automation and orchestration.
 <p align="center">
 Building intelligent systems with clarity, consistency, and impact.
 </p>
+
+
 
 
 
