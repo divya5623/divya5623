@@ -29,7 +29,7 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 ---
 ## GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" width="50%" />
 </p>
 ## About
 
