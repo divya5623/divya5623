@@ -8,31 +8,57 @@ AI Engineer in Progress · Open Source Contributor · Building Intelligent Syste
 Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack AI Product Development.
 </p>
 
+<p align="center">
+<a href="https://github.com/divya5623">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/divya-shettar-258078370">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/divya_shettar_ll">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+</a>
+</p>
+
 ---
 
-## GitHub Activity
+# GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight_duo&hide_border=true&border_radius=12" width="72%" />
 </p>
 
 <p align="center">
-Consistent learning, building, and open-source contribution.
+Daily learning, consistent building, and open-source contribution.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=12" width="47%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="34%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&bg_color=0d1117&color=8A2BE2&line=00C853&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## About
+# About
 
-I am a B.Tech Computer Science Engineering (AI) student at NIAT, building practical AI systems and intelligent applications designed for real-world usability and impact.
+I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and intelligent applications designed for real-world usability and impact.
 
-My interests include:
+Current interests:
 - Generative AI
 - AI Agents
 - Computer Vision
@@ -44,32 +70,34 @@ Currently exploring LLM applications, multi-agent systems, OpenVINO, YOLOv8, and
 
 ---
 
-## Selected Projects
+# Selected Projects
 
 ### SHEGUARD X
-Offline-first women safety platform focused on emergency response, risk detection, and evidence capture.
+Offline-first women safety platform for emergency response, intelligent risk detection, and evidence capture.
 
-**Tech:** React, JavaScript, Browser APIs, Service Workers
+`React` `JavaScript` `Browser APIs` `Service Workers`
 
-Repository:  
+🔗 Repository  
 https://github.com/divya5623/Women-safety
 
 ---
 
 ### BharatSchemeAI
-AI-powered eligibility engine helping users discover and apply for government schemes more efficiently.
+AI-powered eligibility engine for discovering and accessing government schemes efficiently.
 
-**Tech:** React, Vite, JavaScript
+`React` `Vite` `JavaScript`
 
-Repository:  
+🔗 Repository  
 https://github.com/divya5623/scheme-project
 
 ---
 
 ### Smart Health Path AI
-Healthcare assistance platform designed to improve medical accessibility and guided support.
+Healthcare assistance platform focused on accessibility and intelligent guidance.
 
-Live Demo:  
+`AI Systems` `Frontend` `Automation`
+
+🔗 Live Demo  
 https://unique-smart-health-path.base44.app
 
 ---
@@ -77,18 +105,22 @@ https://unique-smart-health-path.base44.app
 ### Empathy Mirror AI
 AI-powered emotional reflection and intelligent interaction platform.
 
-Live Demo:  
+`GenAI` `Frontend` `AI Interaction`
+
+🔗 Live Demo  
 https://empathy-mirror-0d3693de.base44.app
 
-Repository:  
+🔗 Repository  
 https://github.com/divya5623/empathy-mirror-ai
 
 ---
 
 ### AI Agents Workflow System
-Multi-agent AI workflow platform focused on intelligent task orchestration and automation.
+Multi-agent workflow platform focused on intelligent task orchestration and automation.
 
-**Tech:** Python, LangChain, AI Agents
+`Python` `LangChain` `AI Agents`
+
+---
 
 ---
 
