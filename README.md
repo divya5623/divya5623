@@ -43,11 +43,10 @@ AI Engineer • Open Source Contributor • Building Intelligent Systems for Rea
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
 ---
 
 # 📈 Contribution Activity
