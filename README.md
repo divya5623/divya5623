@@ -14,6 +14,7 @@ AI Engineer in Progress · Open Source Contributor · Building Intelligent Syste
 
 ---
 
+## GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=divya5623&theme=default&hide_border=true" width="60%" />
 </p>
@@ -117,13 +118,7 @@ Google Cloud · Gemini API · Hugging Face · Gradio · Netlify · Vercel
 
 ---
 
-## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=default&hide_border=true" width="37%" />
-</p>
 
 ---
 
