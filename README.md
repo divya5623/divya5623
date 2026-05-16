@@ -1,102 +1,115 @@
 <h1 align="center">Divya Shettar</h1>
 
 <p align="center">
-  B.Tech CSE (AI) Student · AI Engineer in Progress · Open Source Contributor
+AI Engineer in Progress · Open Source Contributor · Building Intelligent Systems for Real-World Impact
 </p>
 
 <p align="center">
-  Building practical AI systems across safety, healthcare, automation, and intelligent workflows.
+<a href="https://github.com/divya5623">GitHub</a> •
+<a href="https://linkedin.com/in/divya-shettar-258078370">LinkedIn</a> •
+<a href="https://instagram.com/divya_shettar_ll">Instagram</a> •
+<a href="https://twitter.com/">X / Twitter</a> •
+<a href="https://discord.com/">Discord</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=default&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/divya5623">GitHub</a> ·
-  <a href="https://linkedin.com/in/divya-shettar-258078370">LinkedIn</a> ·
-  <a href="https://instagram.com/divya_shettar_ll">Instagram</a>
+Consistent learning, building, and open-source contribution.
 </p>
 
 ---
 
 ## About
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence at NIAT.  
-My work focuses on building usable AI products, intelligent automation systems, and real-world applications powered by AI agents, computer vision, and full-stack development.
+I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and real-world intelligent applications.
 
-Currently learning and building with LLMs, multi-agent systems, OpenVINO, YOLOv8, React, and cloud-based AI tools.
-
----
-
-## Core Areas
-
-- Generative AI and LLM Applications
-- AI Agents and Workflow Automation
-- Computer Vision and Edge AI
+My interests include:
+- Generative AI
+- AI Agents
+- Computer Vision
+- Workflow Automation
 - Full-Stack AI Product Development
 - Open Source Engineering
+
+Currently exploring LLM applications, multi-agent systems, OpenVINO, YOLOv8, and deployable AI products.
 
 ---
 
 ## Selected Projects
 
 ### SHEGUARD X
-Offline-first women safety system for emergency response, risk detection, and evidence capture.
+Offline-first women safety platform focused on emergency response, risk detection, and evidence capture.
 
-`React` `JavaScript` `Browser APIs` `Service Workers`
+**Tech:** React, JavaScript, Browser APIs, Service Workers
 
-Repository: https://github.com/divya5623/Women-safety
+Repository:  
+https://github.com/divya5623/Women-safety
 
 ---
 
 ### BharatSchemeAI
-Eligibility engine that helps users discover relevant government schemes and access application links faster.
+AI-powered eligibility engine helping users discover and apply for government schemes more efficiently.
 
-`React` `Vite` `JavaScript`
+**Tech:** React, Vite, JavaScript
 
-Repository: https://github.com/divya5623/scheme-project
+Repository:  
+https://github.com/divya5623/scheme-project
 
 ---
 
 ### Smart Health Path AI
-Healthcare assistance platform focused on guided medical accessibility and user support.
+Healthcare assistance platform designed to improve medical accessibility and guided support.
 
-`AI Product` `Frontend` `Automation`
-
-Live Demo: https://unique-smart-health-path.base44.app
+Live Demo:  
+https://unique-smart-health-path.base44.app
 
 ---
 
 ### Empathy Mirror AI
-AI-powered emotional reflection and interaction platform.
+AI-powered emotional reflection and intelligent interaction platform.
 
-`GenAI` `Frontend` `User Interaction`
+Live Demo:  
+https://empathy-mirror-0d3693de.base44.app
 
-Live Demo: https://empathy-mirror-0d3693de.base44.app  
-Repository: https://github.com/divya5623/empathy-mirror-ai
+Repository:  
+https://github.com/divya5623/empathy-mirror-ai
 
 ---
 
 ### AI Agents Workflow System
-Multi-agent workflow concept for intelligent task orchestration and automation.
+Multi-agent AI workflow platform focused on intelligent task orchestration and automation.
 
-`Python` `LangChain` `AI Agents`
+**Tech:** Python, LangChain, AI Agents
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, C++, JavaScript, SQL, HTML, CSS  
-**AI/ML:** OpenVINO, YOLOv8, LangChain, PyTorch, TensorFlow, OpenCV  
-**Frontend:** React, Vite, HTML, CSS  
-**Backend & Tools:** Flask, Git, GitHub, VS Code, Linux  
-**Cloud & Platforms:** Google Cloud, Gemini API, Hugging Face, Gradio, Netlify, Vercel
+### Languages
+Python · C++ · JavaScript · SQL · HTML · CSS
+
+### AI / ML
+OpenVINO · YOLOv8 · LangChain · PyTorch · TensorFlow · OpenCV
+
+### Development
+React · Vite · Flask · Git · GitHub · Linux · VS Code
+
+### Cloud & Platforms
+Google Cloud · Gemini API · Hugging Face · Gradio · Netlify · Vercel
 
 ---
 
 ## Achievements
 
-- Runner-Up, SheBuilds Hackathon 2026
-- ₹10,000 cash prize winner
+- Runner-Up — SheBuilds Hackathon 2026
+- ₹10,000 Prize Winner
 - Google eSkills Gold Badge
-- Big Code 2026 Round 1 Selected
+- Big Code 2026 — Round 1 Selected
 - NIAT GenAI Masterclass Participant
 - Code Vipassana 2026 Participant
 - Google Developer Program Member
@@ -104,15 +117,16 @@ Multi-agent workflow concept for intelligent task orchestration and automation.
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=default&hide_border=true" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=default&hide_border=true" width="37%" />
 </p>
 
 ---
 
 <p align="center">
-  Building intelligent systems with clarity, purpose, and impact.
+Building intelligent systems with clarity, consistency, and impact.
 </p>
