@@ -27,7 +27,6 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 </p>
 
 ---
-
 ## GitHub Activity
 
 <p align="center">
@@ -46,12 +45,6 @@ height="170"
 <img 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true"
 height="170"
-/>
-</p>
-
-<p align="center">
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&theme=tokyo-night&hide_border=true&area=true"
 />
 </p>
 
