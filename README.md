@@ -28,11 +28,9 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 ---
 ## GitHub Activity
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400" width="70%" />
 </p>
-
 ## About
 
 I am a B.Tech Computer Science Engineering (AI) student at NIAT, focused on building practical AI systems and intelligent applications designed for real-world usability and impact.
