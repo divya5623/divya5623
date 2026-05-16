@@ -15,12 +15,19 @@ AI Engineer in Progress · Open Source Contributor · Building Intelligent Syste
 ---
 
 ## GitHub Analytics
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya5623&theme=default&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 <p align="center">
 Consistent learning, building, and open-source contribution.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="47%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true" width="36%" />
 </p>
 
 ---
@@ -92,16 +99,47 @@ Multi-agent AI workflow platform focused on intelligent task orchestration and a
 ## Technical Skills
 
 ### Languages
-Python · C++ · JavaScript · SQL · HTML · CSS
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### AI / ML
-OpenVINO · YOLOv8 · LangChain · PyTorch · TensorFlow · OpenCV
+
+<p>
+<img src="https://img.shields.io/badge/OpenVINO-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
 ### Development
-React · Vite · Flask · Git · GitHub · Linux · VS Code
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ### Cloud & Platforms
-Google Cloud · Gemini API · Hugging Face · Gradio · Netlify · Vercel
+
+<p>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -115,10 +153,6 @@ Google Cloud · Gemini API · Hugging Face · Gradio · Netlify · Vercel
 - Code Vipassana 2026 Participant
 - Google Developer Program Member
 - GDG Cloud Mangalore Member
-
----
-
-
 
 ---
 
