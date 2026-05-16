@@ -186,9 +186,5 @@ Python • LangChain • AI Agents
 
 </p>
 
----
 
-# 💭 Philosophy
 
-> “I don’t just learn technology — I build intelligent systems designed to create meaningful real-world impact.”
-```
