@@ -32,13 +32,6 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 <p align="center">
 <img 
-src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=8"
-height="170"
-/>
-</p>
-
-<p align="center">
-<img 
 src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
 height="170"
 />
