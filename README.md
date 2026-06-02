@@ -7,7 +7,7 @@ AI Engineer in Progress · Open Source Contributor · Building Intelligent Syste
 <p align="center">
 Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack AI Product Development.
 </p>
-
+ 
 <p align="center">
 <a href="https://github.com/divya5623">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
