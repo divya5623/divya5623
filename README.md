@@ -1,4 +1,4 @@
-<h1 align="center">Divya Shettar</h1>
+<h1 align="center">Divya Shettar</h1> 
 
 <p align="center">
 AI Engineer in Progress · Open Source Contributor · Building Intelligent Systems for Real-World Impact
