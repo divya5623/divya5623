@@ -73,14 +73,14 @@ AI-powered eligibility engine for discovering government schemes efficiently.
 🔗 https://github.com/divya5623/scheme-project
 
 ---
-
+    
 ### Smart Health Path AI
 Healthcare assistance platform focused on accessibility and intelligent guidance.
 
 `AI Systems` `Frontend` `Automation`
 
 🔗 https://unique-smart-health-path.base44.app
-
+ 
 ---
 
 ### Empathy Mirror AI
@@ -151,10 +151,8 @@ Multi-agent workflow platform for intelligent automation and orchestration.
 ## Achievements
 
 - Runner-Up — SheBuilds Hackathon 2026
-- ₹10,000 Prize Winner
 - Google eSkills Gold Badge
 - Big Code 2026 — Round 1 Selected
-- NIAT GenAI Masterclass Participant
 - Code Vipassana 2026 Participant
 - Google Developer Program Member
 - GDG Cloud Mangalore Member
