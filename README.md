@@ -28,12 +28,11 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 ---
 
-<h2 align="center">🔥 GitHub Activity</h2>
+<h2 align="center">🔥 GitHub Daily Streak</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10" 
-    width="50%" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
 </p>
