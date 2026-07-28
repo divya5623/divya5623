@@ -73,12 +73,6 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true"
   />
 </p>
@@ -91,18 +85,6 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 <p align="center">
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&theme=tokyo-night&hide_border=true"
-/>
-</p>
-
----
-
-<!-- ====================== GITHUB TROPHIES ====================== -->
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=divya5623&theme=tokyonight&no-frame=true&row=1&column=6"
 />
 </p>
 
