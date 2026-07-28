@@ -28,15 +28,19 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 ---
 
-<h2 align="center">🔥 GitHub Daily Streak</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+
   <img
-    src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true"
+    width="48%"
   />
 </p>
-
 ---
 
 ## About Me
