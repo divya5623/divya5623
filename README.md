@@ -27,7 +27,6 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -35,11 +34,22 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
     src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
-
   <img
     src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true"
     width="48%"
   />
+</p>
+
+---
+
+<h2 align="center">👩‍💻 About Me</h2>
+
+<p align="center">
+  🚀 AI & GenAI Developer | B.Tech CSE (AI) Student <br>
+  💡 Building AI Agents, ML Projects & Real-World Solutions <br>
+  🏆 Hackathon Enthusiast | Competitive Programmer <br>
+  ☁️ Google Cloud Certified | Exploring LLMs & Automation <br>
+  🌱 Learning, Building & Growing Every Day
 </p>
 ---
 
