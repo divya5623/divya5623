@@ -32,12 +32,10 @@ Focused on Generative AI, AI Agents, Computer Vision, Automation, and Full-Stack
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&border_radius=10"
     alt="GitHub Streak"
   />
 </p>
-
-
 
 ---
 
