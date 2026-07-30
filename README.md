@@ -68,7 +68,7 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 
 
 <!-- ====================== GITHUB STATS ====================== -->
-<<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img
