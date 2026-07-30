@@ -68,7 +68,9 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 
 
 <!-- ====================== GITHUB STATS ====================== -->
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true" />
+</p>
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
 
 <h2 align="center">📈 Contribution Graph</h2>
