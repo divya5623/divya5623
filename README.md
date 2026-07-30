@@ -72,7 +72,7 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true&cache_seconds=1"
+    src="https://github-readme-streak-stats.herokuapp.com?user=divya5623&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
