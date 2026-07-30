@@ -72,11 +72,10 @@ I enjoy transforming innovative ideas into scalable, impactful, and deployable A
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=divya5623&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
   />
 </p>
-
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
 
 <h2 align="center">📈 Contribution Graph</h2>
