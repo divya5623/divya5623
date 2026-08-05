@@ -105,3 +105,52 @@ class DivyaShettar:
 > **"Build with purpose. Learn continuously. Ship products that create real impact."**
 
 ---
+<!-- ===================================================== -->
+<!--                   GITHUB DASHBOARD                     -->
+<!-- ===================================================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=divya5623&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divya5623&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=divya5623&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/divya5623/divya5623/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically.
+
+---
