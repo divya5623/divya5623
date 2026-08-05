@@ -2,10 +2,10 @@
 
 ### AI Engineer | Generative AI Developer | Competitive Programmer
 
-Building AI-powered products using **Generative AI, Large Language Models (LLMs), AI Agents, Machine Learning, and Full-Stack Engineering** to solve real-world problems.
+Building AI-powered software using **Generative AI, Large Language Models (LLMs), AI Agents, Machine Learning, and Full-Stack Engineering** to solve real-world problems.
 
 <p align="left">
-<a href="https://github.com/divya5623" target="_blank">
+<a href="https://github.com/divya5623">
 <img src="https://img.shields.io/github/followers/divya5623?label=Followers&style=social"/>
 </a>
 
@@ -19,11 +19,10 @@ Building AI-powered products using **Generative AI, Large Language Models (LLMs)
 # 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science (Artificial Intelligence)
-- 🤖 Passionate about Generative AI, LLMs, AI Agents, and Computer Vision
-- 📈 Currently building **QuantAI**, an AI-powered Quantitative Trading Platform
-- 💻 Competitive Programmer with a strong interest in Data Structures & Algorithms
+- 🤖 Building AI-powered software using **LLMs, AI Agents, Machine Learning, and Computer Vision**
+- 📈 Developing **QuantAI**, an end-to-end AI-powered quantitative trading platform combining machine learning, portfolio optimization, financial analytics, and LLM-powered insights
+- 💻 Strong interest in Data Structures & Algorithms, scalable backend systems, and distributed AI applications
 - ☁️ Google Cloud Certified
-- 🚀 Passionate about building scalable AI systems that create real-world impact
 
 ---
 
@@ -55,17 +54,17 @@ Building AI-powered products using **Generative AI, Large Language Models (LLMs)
 
 ## 📈 QuantAI
 
-**AI-Powered Quantitative Trading Platform**
+**End-to-End AI-Powered Quantitative Trading Platform**
 
-QuantAI leverages Artificial Intelligence and Machine Learning to provide intelligent financial insights, portfolio optimization, and AI-assisted investment analysis.
+QuantAI combines **Machine Learning, Financial Analytics, Portfolio Optimization, Risk Analysis, and LLM-powered insights** to help investors make intelligent, data-driven investment decisions.
 
 ### Key Features
 
-- 🤖 AI Stock Analysis
-- 📊 Portfolio Optimization
-- 🧠 LLM Financial Assistant
-- ⚠️ Risk Analysis
-- 📈 Machine Learning Forecasting
+- AI Stock Analysis
+- Portfolio Optimization
+- LLM Financial Assistant
+- Risk Analysis
+- Machine Learning Forecasting
 
 ### Tech Stack
 
@@ -79,7 +78,7 @@ QuantAI leverages Artificial Intelligence and Machine Learning to provide intell
 - Google Cloud
 
 🔗 **Repository:**  
-https://github.com/divya5623/QuantAI
+**https://github.com/divya5623/QuantAI**
 
 ---
 
@@ -129,11 +128,11 @@ https://github.com/divya5623/QuantAI
 
 # 🏆 Achievements
 
-- 🥈 National Hackathon Runner-Up
 - ☁️ Google Cloud Certified
-- 🥇 Google eSkills Gold Badge
-- 🚀 Big Code 2026 – Round 1 Selected
+- 🥈 National Hackathon Runner-Up
 - 🌍 Millennium Fellowship – Round 1 Selected
+- 🚀 Big Code 2026 – Round 1 Selected
+- 🥇 Google eSkills Gold Badge
 - 💼 Unified Mentor Internship
 
 ---
@@ -163,7 +162,6 @@ https://github.com/divya5623/QuantAI
 - Agentic AI
 - MLOps
 - Distributed Systems
-- System Design
 
 ---
 
