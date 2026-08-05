@@ -1,109 +1,124 @@
-<!-- ========================================================= -->
-<!--                         HERO SECTION                       -->
-<!-- ========================================================= -->
 
-<h1 align="center">
-Hi 👋, I'm <b>Divya Shettar</b>
-</h1>
 
-<h3 align="center">
+
+Hi 👋, I'm Divya Shettar
 AI Engineer • Generative AI Developer • Full-Stack AI Builder
-</h3>
+Building scalable AI systems, intelligent automation, and real-world AI
+products using Large Language Models, AI Agents, Machine Learning, and
+Computer Vision.
 
 <p align="center">
-Building scalable AI systems, intelligent automation, and real-world products using Generative AI, Large Language Models, AI Agents, and Machine Learning.
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+Intelligent+Products;LLMs+%7C+AI+Agents+%7C+Computer+Vision;Quantitative+Finance+Enthusiast;Open+Source+Contributor;Competitive+Programmer;Always+Learning+🚀" />
-</p>
-
-<p align="center">
-<a href="https://github.com/divya5623">
-<img src="https://img.shields.io/github/followers/divya5623?label=Followers&style=for-the-badge&logo=github&color=58A6FF"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=divya5623">
-<img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge&color=7C3AED"/>
-</a>
+<a href="https://github.com/divya5623">{=html}<img src="https://img.shields.io/github/followers/divya5623?style=for-the-badge&logo=github">{=html}</a>{=html}
+<a href="https://komarev.com/ghpvc/?username=divya5623">{=html}<img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge">{=html}</a>{=html}
 
 </p>
+🔗 Connect
+GitHub: https://github.com/divya5623
 
-<p align="center">
+LinkedIn: https://linkedin.com/in/divya-shettar-258078370
 
-<a href="https://github.com/divya5623">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+LeetCode: https://leetcode.com/u/divyashettar65/
 
-<a href="https://linkedin.com/in/divya-shettar-258078370">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Instagram: https://instagram.com/divya_shettar_ll
 
-<a href="https://leetcode.com/u/divyashettar65/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://instagram.com/divya_shettar_ll">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 👩‍💻 About Me
-
-```python
+👩‍💻 About Me
 class DivyaShettar:
-
-    name = "Divya Shettar"
-
     role = "AI Engineer"
-
-    education = "B.Tech Computer Science (Artificial Intelligence)"
-
-    current_focus = [
+    education = "B.Tech Computer Science (AI)"
+    current_project = "QuantAI"
+    interests = [
         "Generative AI",
-        "Large Language Models",
+        "LLMs",
         "AI Agents",
         "Computer Vision",
         "Machine Learning",
         "Quantitative Finance",
         "System Design"
     ]
+🚀 Featured Project --- QuantAI
+QuantAI is an AI-powered quantitative trading and portfolio intelligence
+platform combining AI, financial analytics, machine learning, and modern
+web technologies.
 
-    programming_languages = [
-        "Python",
-        "C++",
-        "JavaScript",
-        "SQL"
-    ]
+Tech Stack
+Python
 
-    currently_building = "QuantAI"
+FastAPI
 
-    currently_learning = [
-        "LLM Engineering",
-        "Agentic AI",
-        "MLOps",
-        "Cloud AI",
-        "Distributed Systems"
-    ]
+React
 
-    mission = (
-        "Building intelligent software that solves real-world "
-        "problems through AI, scalable engineering, and innovation."
-    )
-```
+TypeScript
 
-## 🚀 What I'm Currently Doing
+PostgreSQL
 
-- 🤖 Building AI-powered applications using LLMs and AI Agents
-- 📈 Developing **QuantAI**, an AI-powered quantitative trading platform
-- 💻 Solving Data Structures & Algorithms on LeetCode
-- ☁️ Learning scalable cloud-native AI systems
-- 🌍 Contributing to open-source projects and hackathons
-- 📚 Exploring cutting-edge research in Artificial Intelligence
+Docker
 
-> **"Build with purpose. Learn continuously. Engineer solutions that create real-world impact."**
+LangChain
 
----
+Google Cloud
+
+Current Progress
+✅ Dashboard
+
+✅ Authentication
+
+🔄 Backend APIs
+
+🔄 AI Models
+
+⏳ Deployment
+
+Repository: https://github.com/divya5623/QuantAI
+
+💻 Tech Stack
+Languages: Python, C++, JavaScript, SQL
+
+Frontend: React, Vite, Tailwind CSS
+
+Backend: FastAPI, Flask, Node.js
+
+AI/ML: PyTorch, TensorFlow, LangChain, OpenCV, OpenVINO, Gemini API
+
+Cloud & DevOps: Google Cloud, Docker, GitHub Actions, Vercel,
+Netlify
+
+📊 GitHub Stats
+Add these widgets:
+
+https://github-readme-stats.vercel.app/api?username=divya5623
+https://streak-stats.demolab.com/?user=divya5623
+https://github-readme-activity-graph.vercel.app/graph?username=divya5623
+🏆 Achievements
+National Hackathon Runner-Up
+
+Google Cloud Certified
+
+Google eSkills Gold Badge Holder
+
+Rewriting the Code (RTC) Member
+
+Unified Mentor Internship
+
+Google Developer Program Member
+
+GDG Cloud Mangalore Member
+
+💻 Competitive Programming
+LeetCode Knight
+
+70+ Problems Solved
+
+Python & C++
+
+🌱 Currently Learning
+LLM Engineering
+
+Multi-Agent Systems
+
+MLOps
+
+Distributed Systems
+
+Cloud AI
+
+Building AI today. Engineering the future.
