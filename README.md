@@ -1,117 +1,107 @@
-<!-- ========================================================= -->
-<!--                       HERO SECTION                         -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!--                      HERO SECTION                      -->
+<!-- ===================================================== -->
 
-<h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF;">Divya Shettar</span>
-</h1>
+<h1 align="center">Hi 👋, I'm Divya Shettar</h1>
 
 <h3 align="center">
-AI Engineer • Generative AI Developer • Full-Stack AI Builder • Competitive Programmer
+AI Engineer • Generative AI Developer • Full-Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+Real-World+AI+Products;Quantitative+Finance+%7C+LLMs+%7C+Agents;Open+Source+Contributor;Future+Software+Engineer+🚀" />
+Building scalable AI systems, intelligent automation, and real-world products powered by LLMs, AI Agents, and Machine Learning.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+QuantAI;AI+Agents+%7C+LLMs+%7C+Computer+Vision;Competitive+Programmer;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
 <a href="https://github.com/divya5623">
-<img src="https://img.shields.io/github/followers/divya5623?style=for-the-badge&logo=github&color=58A6FF"/>
+<img src="https://img.shields.io/github/followers/divya5623?label=Followers&style=for-the-badge&logo=github&color=58A6FF"/>
+</a>
+
+<a href="https://komarev.com/ghpvc/?username=divya5623">
+<img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge&color=7C3AED"/>
 </a>
 
 <a href="https://github.com/divya5623">
-<img src="https://img.shields.io/github/stars/divya5623?style=for-the-badge&logo=github&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/divya5623?style=for-the-badge&logo=github&color=3FB950"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge&color=0e75b6"/>
 </p>
 
 <p align="center">
 
 <a href="https://github.com/divya5623">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/divya-shettar-258078370">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/divya_shettar_ll">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
-<p align="center">
-
-💡 Building AI systems that solve real-world problems through
-Generative AI, Machine Learning, Quantitative Finance, and Intelligent Automation.
-
 </p>
 
 ---
-<!-- ========================================================= -->
-<!--                         ABOUT ME                           -->
-<!-- ========================================================= -->
 
 # 👩‍💻 About Me
 
 ```python
 class DivyaShettar:
 
-    def __init__(self):
-        self.name = "Divya Shettar"
-        self.role = "AI Engineer & Full-Stack AI Developer"
-        self.location = "Mangaluru, India 🇮🇳"
+    role = "AI Engineer"
 
-        self.focus = [
-            "Generative AI",
-            "Large Language Models",
-            "AI Agents",
-            "Computer Vision",
-            "Quantitative Finance",
-            "System Design"
-        ]
+    education = "B.Tech Computer Science (AI)"
 
-        self.languages = [
-            "Python",
-            "C++",
-            "JavaScript",
-            "SQL"
-        ]
+    current_project = "QuantAI"
 
-        self.current_project = "QuantAI"
+    interests = [
+        "Generative AI",
+        "Large Language Models",
+        "AI Agents",
+        "Computer Vision",
+        "Quantitative Finance",
+        "System Design"
+    ]
 
-        self.learning = [
-            "LLM Engineering",
-            "Multi-Agent Systems",
-            "MLOps",
-            "Cloud AI",
-            "Advanced System Design"
-        ]
+    languages = [
+        "Python",
+        "C++",
+        "JavaScript",
+        "SQL"
+    ]
 
-    def mission(self):
-        return (
-            "Building intelligent AI products that solve real-world "
-            "problems through innovation, automation, and scalable engineering."
-        )
+    currently_learning = [
+        "LLM Engineering",
+        "Agentic AI",
+        "MLOps",
+        "Cloud Computing",
+        "Distributed Systems"
+    ]
 
-me = DivyaShettar()
+    mission = (
+        "Build intelligent AI products that solve real-world problems "
+        "through scalable software engineering."
+    )
 ```
 
-### 🚀 What I Do
+## 🚀 What I'm Doing
 
-- 🤖 Build AI-powered products using LLMs and AI Agents
-- 📈 Develop intelligent financial applications with QuantAI
-- 💻 Solve Data Structures & Algorithms problems regularly
-- ☁️ Explore scalable cloud-native AI architectures
-- 🌍 Contribute to open-source and hackathon projects
-- 📚 Continuously learn and build real-world AI systems
+- 🤖 Building AI-powered applications using LLMs and AI Agents
+- 📈 Developing **QuantAI**, an AI-driven quantitative finance platform
+- 💻 Solving Data Structures & Algorithms problems
+- ☁️ Learning scalable cloud-native AI systems
+- 🌍 Contributing to open-source projects and hackathons
+- 📚 Continuously exploring cutting-edge AI research
 
-> **"I believe great software combines intelligence, scalability, and meaningful impact."**
+> **"Build with purpose. Learn continuously. Ship products that create real impact."**
 
 ---
