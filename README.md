@@ -1,110 +1,153 @@
-<!-- ========================================================= -->
-<!--                       HERO SECTION                        -->
-<!-- ========================================================= -->
+Hi 👋 I'm Divya Shettar
 
-<h1 align="center">
-Hi 👋, I'm Divya Shettar
-</h1>
+AI Engineer | Generative AI Developer | Competitive Programmer
 
-<h3 align="center">
-AI Engineer • Generative AI Developer • Full-Stack Developer
-</h3>
+Building AI-powered products using LLMs, AI Agents and Machine Learning.
+About
+🎓 B.Tech Computer Science (AI)
 
-<p align="center">
-Building intelligent AI systems, scalable backend applications, and real-world products powered by Large Language Models, AI Agents, Machine Learning, and Quantitative Finance.
-</p>
+🤖 Interested in Generative AI, LLMs, AI Agents and Computer Vision
 
-<p align="center">
+📈 Building QuantAI
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Generative+AI+Developer;Building+Real-World+AI+Products;LLMs+%7C+AI+Agents+%7C+Computer+Vision;Quantitative+Finance;Competitive+Programmer;Open+Source+Builder;Always+Learning+🚀"/>
+💻 Competitive Programmer
 
-</p>
+☁️ Google Cloud Certified
 
-<p align="center">
+🚀 Passionate about solving real-world problems with AI
+GitHub Stats
 
-<a href="https://github.com/divya5623">
-<img src="https://img.shields.io/github/followers/divya5623?label=Followers&style=for-the-badge&logo=github&color=58A6FF"/>
-</a>
+Keep
 
-<a href="https://github.com/divya5623">
-<img src="https://img.shields.io/github/stars/divya5623?style=for-the-badge&logo=github&color=7C3AED"/>
-</a>
+GitHub Stats
 
-<a href="https://komarev.com/ghpvc/?username=divya5623">
-<img src="https://komarev.com/ghpvc/?username=divya5623&style=for-the-badge&color=3FB950"/>
-</a>
+Top Languages
 
-</p>
+Streak
 
-<p align="center">
+Contribution Graph
 
-<a href="https://github.com/divya5623">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Nothing else.
 
-<a href="https://linkedin.com/in/divya-shettar-258078370">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Featured Project
 
-<a href="https://leetcode.com/u/divyashettar65/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+Only
 
-<a href="https://instagram.com/divya_shettar_ll">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+QuantAI
+AI-powered Quantitative Trading Platform
 
-</p>
+• AI Stock Analysis
 
----
+• Portfolio Optimization
 
-# 👩‍💻 About Me
+• LLM Financial Assistant
 
-```python
-class DivyaShettar:
+• Risk Analysis
 
-    role = "AI Engineer"
+• ML Forecasting
 
-    specialization = [
-        "Generative AI",
-        "Large Language Models",
-        "AI Agents",
-        "Computer Vision",
-        "Backend Engineering",
-        "Quantitative Finance"
-    ]
+Then
 
-    languages = [
-        "Python",
-        "C++",
-        "JavaScript",
-        "SQL"
-    ]
+Tech Stack
 
-    current_project = "QuantAI"
+React
 
-    currently_learning = [
-        "LLM Engineering",
-        "Multi-Agent Systems",
-        "MLOps",
-        "Cloud AI",
-        "Distributed Systems"
-    ]
+FastAPI
 
-    mission = (
-        "Design intelligent software that transforms "
-        "complex real-world problems into scalable AI solutions."
-    )
-```
+Python
 
-## 🚀 What I'm Working On
+LangChain
 
-- 🤖 AI Agents & Agentic Workflows
-- 🧠 Large Language Model Applications
-- 📈 QuantAI – AI-Powered Quantitative Finance Platform
-- 👁️ Computer Vision & Intelligent Automation
-- ☁️ Cloud-Native AI Deployment
-- 💻 Data Structures & Algorithms
-- 🌍 Open Source Contributions & Hackathons
+PyTorch
 
-> **"Building software that is intelligent, scalable, and impactful."**
+PostgreSQL
+
+Docker
+
+Google Cloud
+
+That's enough.
+
+Tech Stack
+
+Use only Skill Icons.
+
+Languages
+
+Python C++ JavaScript SQL
+
+Frontend
+
+React Tailwind Vite
+
+Backend
+
+FastAPI Flask Node
+
+AI
+
+PyTorch TensorFlow OpenCV LangChain
+
+Database
+
+PostgreSQL MongoDB Redis
+
+Cloud
+
+Docker Git GitHub GCP Linux
+
+No shields.
+
+Achievements
+
+Only important ones.
+
+🏆 National Hackathon Runner-Up
+
+☁️ Google Cloud Certified
+
+🥇 Google eSkills Gold
+
+🚀 Big Code 2026 Round 1
+
+🌍 Millennium Fellow
+
+💼 Unified Mentor Intern
+Competitive Programming
+LeetCode
+
+Knight
+
+70+ Problems
+
+Python
+
+C++
+
+Then LeetCard.
+
+Currently Learning
+LLM Engineering
+
+Agentic AI
+
+MLOps
+
+Distributed Systems
+
+System Design
+Connect
+
+Only
+
+GitHub
+LinkedIn
+LeetCode
+Email (optional)
+
+Remove Instagram. Top recruiters don't care about it on a professional GitHub profile.
+
+Footer
+Thanks for visiting my profile ⭐
+
+Then the wave footer.
