@@ -154,3 +154,325 @@ class DivyaShettar:
 > **Note:** The contribution snake requires a GitHub Actions workflow to generate automatically.
 
 ---
+<!-- ===================================================== -->
+<!--                 🚀 FLAGSHIP PROJECT                    -->
+<!-- ===================================================== -->
+
+# 🚀 Featured Project
+
+<div align="center">
+
+# 📈 QuantAI
+
+### AI-Powered Quantitative Trading & Portfolio Intelligence Platform
+
+**Building intelligent financial systems using Artificial Intelligence, Machine Learning, and Large Language Models.**
+
+<img src="https://img.shields.io/badge/Status-In%20Development-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Enabled-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Yes-purple?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🌟 Overview
+
+QuantAI is an AI-powered quantitative finance platform designed to help investors and traders make data-driven decisions using modern Artificial Intelligence.
+
+The platform combines machine learning, financial analytics, AI Agents, and LLM-powered insights into a scalable, production-ready ecosystem.
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🤖 AI Market Analysis | Analyze stocks using AI models |
+| 📊 Portfolio Optimization | Build risk-aware portfolios |
+| 📈 Technical Indicators | RSI, MACD, EMA, Bollinger Bands |
+| 🧠 AI Financial Assistant | LLM-powered investment assistant |
+| 📰 News Sentiment Analysis | Financial news intelligence |
+| 🔮 Price Prediction | Machine Learning forecasting |
+| ⚠️ Risk Analysis | Portfolio risk management |
+| 📉 Strategy Backtesting | Evaluate trading strategies |
+| 🔔 Smart Alerts | Market notifications |
+| ☁️ Cloud Deployment | Production-ready architecture |
+
+---
+
+## 🏗️ System Architecture
+
+```text
+                React + TypeScript
+                       │
+                       ▼
+              FastAPI REST APIs
+                       │
+         ┌─────────────┼──────────────┐
+         ▼             ▼              ▼
+   AI Models      LLM Assistant   Risk Engine
+         │             │              │
+         └─────────────┼──────────────┘
+                       ▼
+             PostgreSQL + Redis
+                       │
+                       ▼
+           Real-Time Market Data APIs
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Backend
+
+- Python
+- FastAPI
+- REST APIs
+
+### Artificial Intelligence
+
+- PyTorch
+- Scikit-Learn
+- LangChain
+- OpenAI API
+- Google Gemini API
+
+### Database
+
+- PostgreSQL
+- Redis
+
+### Cloud & DevOps
+
+- Docker
+- GitHub Actions
+- Google Cloud
+- Vercel
+
+---
+
+## 🎯 Project Vision
+
+- Build an AI-native quantitative trading platform.
+- Deliver explainable AI for financial decision-making.
+- Enable intelligent portfolio optimization.
+- Create scalable cloud-based financial software.
+
+---
+
+## 📌 Current Progress
+
+| Module | Status |
+|---------|--------|
+| UI Development | ✅ Complete |
+| Backend APIs | 🔄 In Progress |
+| AI Models | 🔄 In Progress |
+| Authentication | ✅ Complete |
+| Database Design | ✅ Complete |
+| Deployment | ⏳ Planned |
+
+---
+
+## 📂 Repository
+
+⭐ **GitHub Repository**
+
+```text
+https://github.com/divya5623/QuantAI
+```
+
+> **"QuantAI reflects my passion for combining Artificial Intelligence with Financial Technology to build intelligent, scalable, and impactful software."**
+
+---
+<!-- ===================================================== -->
+<!--                    💻 TECH STACK                       -->
+<!-- ===================================================== -->
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,mysql" />
+
+<br><br>
+
+## 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs" />
+
+<br><br>
+
+## ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,flask,express" />
+
+<br><br>
+
+## 🤖 Artificial Intelligence & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenVINO-5C3EE8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
+
+</p>
+
+<br>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+<br><br>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,git,github,linux,vercel,netlify" />
+
+<br><br>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion" />
+
+</div>
+
+---
+
+## 🎯 Areas of Interest
+
+- 🤖 Generative AI
+- 🧠 Large Language Models (LLMs)
+- 🤝 AI Agents & Multi-Agent Systems
+- 📈 Quantitative Finance
+- 👁️ Computer Vision
+- ☁️ Cloud Computing
+- ⚡ Backend Engineering
+- 🏗️ System Design
+- 📊 Data Science
+- 🔬 Machine Learning Research
+
+---
+<!-- ===================================================== -->
+<!--              🏆 ACHIEVEMENTS & CERTIFICATIONS          -->
+<!-- ===================================================== -->
+
+# 🏆 Achievements & Certifications
+
+- 🥈 National Hackathon Runner-Up
+- 👩‍💻 Rewriting the Code (RTC) Member
+- ☁️ Google Cloud Certified
+- 🏅 Google eSkills Gold Badge Holder
+- 🚀 Big Code 2026 – Round 1 Selected
+- 🌍 Millennium Fellowship – Round 1 Selected
+- 💼 Unified Mentor Internship Selected
+- 💻 Google Developer Program Member
+- ☁️ GDG Cloud Mangalore Member
+
+---
+<!-- ===================================================== -->
+<!--              💻 COMPETITIVE PROGRAMMING               -->
+<!-- ===================================================== -->
+
+# 💻 Competitive Programming
+
+<div align="center">
+
+| Platform | Achievement |
+|----------|-------------|
+| 🟠 LeetCode | Knight (2026 Rating) |
+| 💯 Problems Solved | 70+ |
+| ⚡ Languages | Python • C++ |
+| 🏁 Focus | DSA • Algorithms • Problem Solving |
+
+</div>
+
+<p align="center">
+
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+</a>
+
+</p>
+
+---
+<!-- ===================================================== -->
+<!--               🌱 CURRENTLY LEARNING                   -->
+<!-- ===================================================== -->
+
+# 🌱 Currently Learning
+
+- 🧠 LLM Engineering
+- 🤖 AI Agents & Multi-Agent Systems
+- ☁️ Cloud AI & MLOps
+- 📈 Quantitative Finance
+- 🏗️ Distributed Systems
+- ⚡ High-Performance Backend Engineering
+
+---
+<!-- ===================================================== -->
+<!--                    🤝 CONNECT                         -->
+<!-- ===================================================== -->
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/divya5623">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/divya-shettar-258078370">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/divya_shettar_ll">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LEETCODE_PROFILE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+<!-- ===================================================== -->
+<!--                      FOOTER                           -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+## 🚀 Building AI Today. Engineering the Future.
+
+*"Great software isn't just written—it is engineered to solve meaningful problems."*
+
+⭐ **If you find my work interesting, consider starring my repositories!**
+
+Thanks for visiting my profile.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"/>
+
+</div>
