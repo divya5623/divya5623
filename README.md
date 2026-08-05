@@ -54,3 +54,64 @@ Generative AI, Machine Learning, Quantitative Finance, and Intelligent Automatio
 </p>
 
 ---
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
+
+# 👩‍💻 About Me
+
+```python
+class DivyaShettar:
+
+    def __init__(self):
+        self.name = "Divya Shettar"
+        self.role = "AI Engineer & Full-Stack AI Developer"
+        self.location = "Mangaluru, India 🇮🇳"
+
+        self.focus = [
+            "Generative AI",
+            "Large Language Models",
+            "AI Agents",
+            "Computer Vision",
+            "Quantitative Finance",
+            "System Design"
+        ]
+
+        self.languages = [
+            "Python",
+            "C++",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.current_project = "QuantAI"
+
+        self.learning = [
+            "LLM Engineering",
+            "Multi-Agent Systems",
+            "MLOps",
+            "Cloud AI",
+            "Advanced System Design"
+        ]
+
+    def mission(self):
+        return (
+            "Building intelligent AI products that solve real-world "
+            "problems through innovation, automation, and scalable engineering."
+        )
+
+me = DivyaShettar()
+```
+
+### 🚀 What I Do
+
+- 🤖 Build AI-powered products using LLMs and AI Agents
+- 📈 Develop intelligent financial applications with QuantAI
+- 💻 Solve Data Structures & Algorithms problems regularly
+- ☁️ Explore scalable cloud-native AI architectures
+- 🌍 Contribute to open-source and hackathon projects
+- 📚 Continuously learn and build real-world AI systems
+
+> **"I believe great software combines intelligence, scalability, and meaningful impact."**
+
+---
