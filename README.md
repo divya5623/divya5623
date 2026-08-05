@@ -395,27 +395,32 @@ https://github.com/divya5623/QuantAI
 <!-- ===================================================== -->
 <!--              💻 COMPETITIVE PROGRAMMING               -->
 <!-- ===================================================== -->
+<!-- ===================================================== -->
+<!--              💻 COMPETITIVE PROGRAMMING               -->
+<!-- ===================================================== -->
 
 # 💻 Competitive Programming
 
 <div align="center">
 
 | Platform | Achievement |
-|----------|-------------|
-| 🟠 LeetCode | Knight (2026 Rating) |
+|:---:|:---:|
+| 🟠 LeetCode | Knight |
 | 💯 Problems Solved | 70+ |
-| ⚡ Languages | Python • C++ |
-| 🏁 Focus | DSA • Algorithms • Problem Solving |
+| ⚡ Primary Languages | Python • C++ |
+| 🧠 Focus | DSA • Algorithms • Problem Solving |
 
 </div>
 
 <p align="center">
 
-<a href="YOUR_LEETCODE_PROFILE">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+<a href="https://leetcode.com/u/divyashettar65/">
+<img src="https://leetcard.jacoblin.cool/divyashettar65?theme=dark&font=Poppins&ext=contest"/>
 </a>
 
 </p>
+
+---
 
 ---
 <!-- ===================================================== -->
