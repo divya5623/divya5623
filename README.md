@@ -2,7 +2,7 @@
 
 ### AI Engineer · Software Developer · Builder
 
-Computer Science & Engineering (Artificial Intelligence) student focused on building practical AI systems across **Generative AI, RAG, Computer Vision, Edge AI, and Software Engineering**.
+Computer Science & Engineering (Artificial Intelligence) student focused on building practical AI systems across **Generative AI, RAG, Computer Vision, Edge AI, and Software Engineering **.
 
 <p>
   <a href="https://my-portfolio-d7hh.vercel.app/">
@@ -27,6 +27,8 @@ I build AI-powered applications and software systems with a focus on **practical
 * **LeetCode Knight** · 2,026 contest rating · Top 2.27%
 * Frontend Development Intern — **CodeAlpha**
 * Tech Vice President — **NIAT**
+* 
+
 
 ---
 
