@@ -1,112 +1,66 @@
-# Divya Shettar
+<!--
+DIVYA'S ANIMATED GITHUB PROFILE
+1. Create a PUBLIC repository named exactly: divya5623
+2. Upload this README.md and the assets/ and .github/ folders.
+3. Replace the email placeholder in this file and assets/connect.svg.
+4. In the repository, enable Actions if they are disabled.
+-->
 
-### AI Systems Engineer in the Making | Open-Source Contributor | Software Developer
+<div align="center">
+  <img src="assets/hero.svg" width="100%" alt="Divya Shettar — AI and Full-Stack Developer" />
+</div>
 
-I build practical AI systems, developer tools, and software solutions focused on solving real-world problems. Currently exploring **AI infrastructure, systems engineering, open-source development, and high-performance computing**.
-
-I'm passionate about understanding how software works beneath the surface — from algorithms and operating systems to distributed systems and AI inference.
-
-[Portfolio](https://my-portfolio-d7hh.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/divya-shettar-258078370/) · [GitHub](https://github.com/divya5623)
-
----
-
-## About Me
-
-- 🎓 B.Tech Computer Science & Engineering (Artificial Intelligence), Yenepoya University.
-- 🌱 Actively preparing for Google Summer of Code 2027.
-- 🔧 Contributing to open-source projects, including AOSSIE's OrgExplorer.
-- 🤖 Exploring AI, Generative AI, RAG, Computer Vision, and Edge AI.
-- ⚙️ Interested in C++, Linux, distributed systems, and AI infrastructure.
-- 🏆 SheBuilds Hackathon — National 2nd Runner-up, Team Lead.
-- 👩‍💻 Tech Vice President at NIAT.
-
-## Open Source & Experience
-
-**Open Source Contributor — OpenVINO Ecosystem**
-- Built AI optimization demonstrations using YOLOv8, BERT, and MobileNetV3.
-- Explored model conversion, inference optimization, and edge AI deployment.
-- Worked with benchmarking and deployment workflows.
-
-**Open Source Contributor — AOSSIE**
-- Contributing to OrgExplorer.
-- Working on organization search functionality.
-- Participating in pull-request reviews and collaborative development.
-
-**Frontend Development Intern — CodeAlpha**
-- Developed responsive web applications using React.
-- Improved component reusability and UI implementation.
-
-## Selected Projects
-
-### 1. Semantic Search & RAG Pipeline
-`Python` `FAISS` `BM25` `LangChain` `LLMs`
-
-- Developed a hybrid retrieval pipeline combining dense and keyword search.
-- Implemented cross-encoder reranking and MMR-based retrieval.
-- Integrated query rewriting and LLM-powered grounded question answering.
-
-### 2. AI Medicine Scanner
-`Python` `YOLO` `OpenVINO` `Computer Vision`
-
-- Developed a real-time medicine identification system.
-- Implemented YOLO-based object detection.
-- Optimized inference using OpenVINO.
-- Project benchmarks: 85% accuracy and 30+ images/second throughput.
-
-### 3. QuantAI
-`Python` `React` `FastAPI` `PyTorch`
-
-- Building an AI-powered quantitative finance platform.
-- Exploring financial forecasting, portfolio optimization, and risk analysis.
-
-### 4. SheGuardX
-`JavaScript` `Software Development`
-
-- A technology project focused on women's safety.
-- Explore the implementation and features in the repository.
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| Languages | C++, C, Python, Java, JavaScript, SQL |
-| AI / ML | Machine Learning, PyTorch, YOLO, OpenCV, OpenVINO, RAG, LLMs |
-| Backend | Python, FastAPI, Flask, Node.js, Express |
-| Frontend | React, JavaScript |
-| Databases | SQL, MongoDB |
-| Infrastructure | Docker, Git, GitHub, Cloud Fundamentals |
-| Core CS | Data Structures, Algorithms, DBMS, Operating Systems, Networking |
-
-## Competitive Programming
-
-- LeetCode Knight
-- Contest rating: 2,026
-- 1,000+ DSA problems solved
-- Focused on algorithmic problem-solving and competitive programming.
-
-## Leadership & Achievements
-
-- **SheBuilds Hackathon:** National 2nd Runner-up, Team Lead.
-- **Big Code 2026:** Selected.
-- **SIH:** Internal selection.
-- **NIAT:** Tech Vice President.
-- **Aspire Institute:** Selected for Aspire Leaders Program, Cohort 4 (2026).
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divya5623&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divya5623&layout=compact&theme=transparent&hide_border=true)
-
-## Current Focus
-
-- Contributing to open-source projects and preparing for GSoC 2027.
-- Deepening C++, Linux, and systems programming skills.
-- Exploring high-performance AI inference and infrastructure.
-- Building practical developer tools and scalable software systems.
+<div align="center">
+  <a href="https://github.com/divya5623">GitHub</a> ·
+  <a href="https://linkedin.com/in/divya-shettar-258078370">LinkedIn</a> ·
+  <a href="https://my-portfolio-d7hh.vercel.app">Portfolio</a>
+</div>
 
 ---
 
-**Building. Contributing. Learning. Improving.**
+## // WHAT I BUILD
 
-*Always open to meaningful open-source collaboration and engineering challenges.*
+<div align="center">
+  <img src="assets/about-life.svg" width="100%" alt="About Divya and areas of work" />
+</div>
+
+I’m Divya, a B.Tech CSE (AI) student at Yenepoya University. I enjoy turning ideas into useful products through software, AI and thoughtful design. I’m currently exploring full-stack engineering, applied GenAI and AI agents.
+
+## // TECH ORBIT
+
+<div align="center">
+  <img src="assets/stack.svg" width="100%" alt="Technology stack" />
+</div>
+
+**Currently working with:** JavaScript · React · Node.js · Express · MongoDB · SQL · C++ · Python · Git · GitHub · GenAI
+
+## // DEVELOPER ID
+
+<div align="center">
+  <img src="assets/id-dashboard.svg" width="100%" alt="Developer ID and focus areas" />
+</div>
+
+## // FEATURED BUILDS
+
+| Project | What it does | Stack |
+|---|---|---|
+| [DIHI – Digital Intelligent Health Interface](https://github.com/divya5623) | Exploring simpler access to medicine information and health guidance | AI · Web · HealthTech |
+| [SheGuard X](https://women-safety-xzdw.vercel.app) | Women’s safety concept with SOS and location-focused features | Web · PWA |
+| [Weekend Explore](https://weekend-explore.vercel.app) | AI-powered budget-friendly weekend trip planning | AI · Travel · Web |
+| [Complete MERN](https://github.com/divya5623/Complete-MERN) | Full-stack learning and implementation | MongoDB · Express · React · Node.js |
+
+## // CONTRIBUTION CITY
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub contribution city" />
+</div>
+
+## // CONNECT
+
+<div align="center">
+  <img src="assets/connect.svg" width="100%" alt="Connect with Divya" />
+</div>
+
+<div align="center">
+  <sub>Building, learning, experimenting — one commit at a time.</sub>
+</div>

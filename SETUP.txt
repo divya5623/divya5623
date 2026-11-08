@@ -1,0 +1,19 @@
+DIVYA'S ANIMATED GITHUB PROFILE — SETUP
+
+1) Open https://github.com/new
+2) Repository name: divya5623
+3) Set visibility to PUBLIC.
+4) Tick “Add a README file” if creating the repository from scratch.
+5) Upload the README.md file and the assets/ and .github/ folders from this pack.
+   If README.md already exists, replace its contents with the README.md in this pack.
+6) Commit the changes to the main branch.
+7) Open the repository's Actions tab. If prompted, enable GitHub Actions.
+8) Open “Generate 3D contribution profile” and choose Run workflow once.
+9) Wait for the workflow to finish. The contribution image may take a few minutes to appear.
+
+IMPORTANT
+- The 3D city may not appear until the workflow has run successfully and generated the SVG.
+- The hero currently uses a stylized SVG avatar, not your real photo or video.
+- Edit README.md to add your preferred email and adjust any project links/details.
+- Replace the sample featured project links if you have separate repositories for those projects.
+- If GitHub blocks an SVG image, open the SVG file in the repository to check it exists and the workflow completed.
